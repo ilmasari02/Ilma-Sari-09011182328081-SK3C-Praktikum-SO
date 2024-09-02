@@ -1,3 +1,22 @@
+# LAPORAN
+## PRAKTIKUM SISTEM OPERASI 
+### TUGAS 1 DAN 2
+
+---
+
+### Disusun oleh:
+**Nama**: Ilma Sari
+**NIM**: 09011182328081
+**Kelas**: SK3C  
+**Dosen Pengampu**: Adi Hermansyah, M. T.
+
+---
+
+### PROGRAM STUDI SISTEM KOMPUTER  
+### FAKULTAS ILMU KOMPUTER  
+### UNIVERSITAS SRIWIJAYA  
+**2024**
+
 # BAB I PENDAHULUAN 
 ## 1.1 Latar Belakang
 Linux muncul sebagai alternatif yang menarik dibandingkan dengan sistem operasi proprietary seperti Microsoft Windows. Dengan sifat open-source, Linux memberikan kebebasan kepada pengguna untuk mengakses, memodifikasi, dan mendistribusikan perangkat lunak tanpa biaya lisensi yang tinggi. Hal ini menjadi faktor pendorong bagi banyak individu dan organisasi untuk beralih ke Linux, terutama ketika kebijakan pemeriksaan keaslian produk oleh Microsoft semakin ketat.
