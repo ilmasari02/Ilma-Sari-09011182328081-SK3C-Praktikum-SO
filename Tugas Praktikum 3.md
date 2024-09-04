@@ -56,5 +56,4 @@
 15. ls : Menampilkan file yang sudah terhapus "ilma123"
 16. du : Menampilkan ukuran disk yang digunakan oleh file dan directori
     ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2010-16.png)
-17 man netstat : Menampilkan informasi tentang koneksi jaringan pada sebuah sistem
-![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2010-16.png)
+17. 
