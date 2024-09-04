@@ -22,11 +22,11 @@
 
 # BAB I PENDAHULUAN
 ## 1.1 Latar Belakang
-
+Dalam era digital saat ini , kemampuan mengelola server dan sistem operasi berbasis teks menjadi semakin penting. Praktikum command line ini bertujuan untuk memberikan pemahaman dasar tentang penggunaan command line pada sistem operasi Linux, yang banyak digunakan dalam lingkungan server.
 ## 1.2 Tujuan Praktikum 
--
--
--
+- Mampu mengakses dan mengelola sistem file linux menggunakan perintah-perintah dasar
+- Mampu menginstal dan mengkonfigurasikan perangkat lunak menggunakan manager paket
+- Memahami dasar-dasar scripting sheel untuk otomatisasi tugas 
 
 ## 1.3 Alat yang digunakan 
 1.Laptop
