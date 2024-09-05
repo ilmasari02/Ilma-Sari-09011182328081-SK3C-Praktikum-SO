@@ -97,9 +97,11 @@ Dalam era digital saat ini , kemampuan mengelola server dan sistem operasi berba
 48. rm -i file_berbahaya : Menghapus file secara interaktif, meminta konfirmasi sebelum menghapus 
 49. sed 's/old/new/g' file : Mengganti teks dalam sebuah file
 50. shutdown : Mematikan atau me-restart sistem
-    ![Contoh Gambar](
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2047-50.png)
 
 # BAB III PENUTUP 
+## 3.1 Kesimpulan
+Praktikum sistem operasi ini telah memberikan pemahaman yang lebih mendalam tentang penggunaan command line pada sistem operasi Linux. Melalui berbagai perintah yang telah dipelajari, mahasiswa dapat melakukan pengelolaan file dan direktori, instalasi dan konfigurasi perangkat lunak, serta otomatisasi tugas. Kemampuan ini sangat penting bagi seorang praktisi IT, terutama dalam mengelola server dan sistem operasi berbasis teks.
 
     
 
