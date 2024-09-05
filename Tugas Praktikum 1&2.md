@@ -108,3 +108,7 @@ Dengan demikian, partisi “/” adalah komponen penting dalam sistem operasi Li
 6. btrfs (B-tree File System)
   -	Platform: Linux
   -	Deskripsi: btrfs adalah sistem file yang dirancang untuk menawarkan fitur-fitur canggih seperti snapshot, subvolume, dan perbaikan integritas data. btrfs masih berkembang dan ditujukan untuk menggantikan ext4 dalam beberapa kasus
+
+# BAB III PENUTUP 
+## 3.1 Kesimpulan
+Praktikum sistem operasi ini telah memberikan pemahaman dasar tentang instalasi dan konfigurasi sistem operasi Linux, khususnya Ubuntu, menggunakan VirtualBox. Melalui proses instalasi yang telah dilakukan, mahasiswa dapat memahami langkah-langkah yang diperlukan untuk menyiapkan lingkungan kerja berbasis Linux. Selain itu, pemahaman mengenai partisi dan sistem file yang berbeda juga telah diperoleh, sehingga mahasiswa dapat memilih partisi yang sesuai dengan kebutuhan
