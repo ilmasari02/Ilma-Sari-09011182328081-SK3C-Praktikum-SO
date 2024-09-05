@@ -79,7 +79,29 @@ Dalam era digital saat ini , kemampuan mengelola server dan sistem operasi berba
    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2029-33.png)
 34. top : Menampilkan informasi real-time tentang penggunaan sistem
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2034.png)
-35.
+35. python script.py : Menjalankan skrip Python bernama script.py
+36. gcc program.c -o program : Mengkompilasi program C menjadi program yang dapat dieksekusi
+37. systemctl start apache2 : Memulai layanan Apache (web server) pada sistem berbasis Debian/Ubuntu
+38. grep "pola" file : Mencari baris yang mengandung pola tertentu dalam sebuah file 
+39. sudo apt update : Memperbarui daftar paket
+40. sudo apt install word : Menginstal word
+41. sudo apt remove word : Menghapus word 
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2035-42.png)
+42. kill PID : Mengakhiri proses dengan ID tertentu
+43. ping alamat IP : Mengirim paket ICMP ke alamat IP untuk menguji konektivitas 
+44. unzip arsip.zip : Mengekstrak isi arsip zip
+45. du -sh : Menampilkan ukuran disk yang digunakan oleh file dan direktori
+46. netstat -a: Menampilkan semua koneksi TCP dan UDP, baik yang aktif mqaupun yang sedang mendengarkan 
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2043-47.png)
+47. netstat -tunp : Menampilkan koneksi TCP dan UDP yang sedang mendengarkan, beserta proses yang terkait
+48. rm -i file_berbahaya : Menghapus file secara interaktif, meminta konfirmasi sebelum menghapus 
+49. sed 's/old/new/g' file : Mengganti teks dalam sebuah file
+50. shutdown : Mematikan atau me-restart sistem
+    ![Contoh Gambar](
+
+# BAB III PENUTUP 
+
+    
 
 
 
