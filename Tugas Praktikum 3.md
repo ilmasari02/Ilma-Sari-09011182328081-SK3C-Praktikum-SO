@@ -57,8 +57,10 @@ Dalam era digital saat ini , kemampuan mengelola server dan sistem operasi berba
 16. du : Menampilkan ukuran disk yang digunakan oleh file dan directori
     ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2010-16.png)
 17. useradd : Menambahkan pengguna batu
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2017.png)
 18. userdel : Menghapus pengguna 
 19. awk : bahasa pemrograman untuk memproses data teks
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2018-19.png)
 20. date : menampilkan tanggal dan waktu saat ini 
 21. zsh : shell yang lebih interaktif dengan fitur pelengkapan otomatis yang kuat 
 22. bush : shell default di banyak sistem Linux 
@@ -68,19 +70,16 @@ Dalam era digital saat ini , kemampuan mengelola server dan sistem operasi berba
 26. which : Mencari lokasi sebuah program 
 27. whereis : Mencari lokasi biner,sumber,dan manual halaman dari sebuah perintah
 28. locate : Mencari file berdasarkan nama (perlu database yang diperbarui)
-29. whoami : Menampilkan nama pengguna saat ini 
-30. Hostname : Menampilkan nama host
-31. cal : Menampilkan kalender
-32. ps aux : Menampilkan semua proses yang sedang berjalan 
-33. top : Menampilkan informasi real-time tentang penggunaan sistem
-34.
+    ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2020-28.png)
+29. chmod : Mengubah izin akses 
+30. hostname : Menampilkan nama host
+31. whoami : Menampilkan nama pengguna saat ini  
+32. cal : Menampilkan kalender
+33. ps aux : Menampilkan semua proses yang sedang berjalan 
+   ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2029-33.png)
+34. top : Menampilkan informasi real-time tentang penggunaan sistem
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/command%2034.png)
 35.
-36.
-37.
-38.
-39.
-40.
-
 
 
 
