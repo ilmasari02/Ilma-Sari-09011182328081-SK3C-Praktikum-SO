@@ -22,6 +22,7 @@
 
 # BAB I PENDAHULUAN
 ## 1.1 Latar Belakang
+Dalam dunia komputasi, interaksi antara sistem operasi dan perangkat keras merupakan hal yang fundamental. Salah satu aspek penting dari interaksi ini adalah proses input/output (I/O), yaitu bagaimana data dipindahkan antara sistem dan perangkat eksternal seperti keyboard, layar, disk, dan jaringan. Konsep I/O redirection merupakan perluasan dari konsep dasar I/O, yang memungkinkan kita untuk mengontrol aliran data secara lebih fleksibel.
 
 ## 1.2 Tujuan Praktikum 
 - Mengenal konsep proses I/O dan redirection
@@ -74,3 +75,4 @@ Dengan menggunakan notasi here document (<@@@...@@@)
 
 # BAB III PENUTUP 
 ## 3.1 Kesimpulan
+Berdasarkan hasil praktikum, dapat disimpulkan bahwa perintah-perintah seperti **cat, sort, grep, head, tail, dan pipe** sangat berguna dalam mengolah dan mengelola file. Konsep redirection dengan **simbol >, >>, dan here document** memungkinkan kita untuk mengarahkan output ke file yang berbeda, menambahkan data ke file yang sudah ada, dan memasukkan data secara langsung ke dalam perintah. Selain itu, penggunaan pipe untuk menghubungkan output dari satu perintah sebagai input untuk perintah lain sangat efektif dalam membuat rangkaian perintah yang kompleks.
