@@ -39,44 +39,38 @@
 # BAB II PEMBAHASAN
 ## 2.1 Proses Input Output I/O
 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(1).png)
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(1.1).png)
 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(2).png)
 3. Urutkan file baru dengan cara membelokkan standard input.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(3).png)
 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(4).png)
 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(5).png)
 6. Urutkan kalimat berikut:
-
-Jakarta
-
-Bandung Surabaya
-
-Padang
-
-Palembang
-
-Lampung
+- Jakarta
+- Bandung
+- Surabaya
+- Padang
+- Palembang
+- Lampung
 
 Dengan menggunakan notasi here document (<@@@...@@@)
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(6).png)
 
 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file boru.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(7).png)
 
 8. Gunakan perintah di bawah ini dan perhatikan hasilnya.
-
-$ cat /etc/passwd | sort | pr-n | grep tty03
-
-$find/etc-print | head.
-
-$head/etc/passwd | tail -5 | sort
-![Contoh Gambar]()
+- $ cat /etc/passwd | sort | pr-n | grep tty03
+- $find/etc-print | head.
+- $head/etc/passwd | tail -5 | sort
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(8).png)
 
 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
-![Contoh Gambar]()
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/praktikum5%20(9).png)
 
 # BAB III PENUTUP 
 ## 3.1 Kesimpulan
