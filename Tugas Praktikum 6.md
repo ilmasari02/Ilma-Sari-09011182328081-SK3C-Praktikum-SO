@@ -77,7 +77,7 @@ $ su – mahasiswa
 $ exit
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(1.c).png)
 Jelaskan perbedaan kedua utilitas tersebut.
-
+**Perbedaan** antara!ls dengan !?ls? adalah pada aturan regex, bisa apa saja, misal pada kasus diatas, ?ls? Bisa saja sama dengan also atau olsa asal mengandung kata ls, sedangkan !ls hanya akan mengeksekusi event dengan perintah ls. 
 
 **2.	Prompt String (PS)**
 
@@ -219,5 +219,7 @@ $ !ls
 
 # BAB III PENUTUP 
 ## 3.1 Kesimpulan
-
+Dari praktikum ini dapat disimpulakn bahwa penggunaan bash dan pemrograman shell pada linux sangatlah mudah dan dapat mempermudah pekerjaan sehari hari, seperti dalam daily task. Kita juga dapat membuat script shell yang nantinya akan berjalan secara
+otomatis yang membuat kerja kita lebih efisien dan cepat. Pemrograman shell juga dapat
+memudahkan dalam penggunaan linux 
 
