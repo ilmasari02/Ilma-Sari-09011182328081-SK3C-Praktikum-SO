@@ -197,8 +197,8 @@ $ bg
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.b.c).png)
 
 #### d.	Stop program background dengan utilitas kil
-
 $ ps x
+
 $ kill [Nomor PID]
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.d%20)%201.png)
 
