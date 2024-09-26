@@ -160,49 +160,64 @@ $ ./p1.sh &
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(4.b)%20perintah%202.png)
 
 $ ./p1.sh $ ./p2.sh & ./p3.sh &
-![Contoh Gambar](
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/p6%20(4.b)%20perintah%203.png)
 
 $ ( ./p1.sh ; ./p3.sh ) &
 ![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(4.b)%20perintah%204.png)
 
 **5.	Jobs**
 #### a.	Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
- 
 
-#!/bin/bash while [ true ] do
-date >> hasil sleep 10
+#!/bin/bash 
+
+while [ true ] 
+
+do
+
+date >> hasil 
+
+sleep 10
+
 done
+
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.a)%201.png)
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.a)%202.png)
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.a)%203.png)
 
 #### b.	Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut :
 $ jobs
-$ find / -print > files 2>/dev/null &
-$ jobs
 
+$ find / -print > files 2>/dev/null &
+
+$ jobs
 #### c.	Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background
 $ fg %1
+
 $ bg
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.b.c).png)
 
 #### d.	Stop program background dengan utilitas kil
 
 $ ps x
 $ kill [Nomor PID]
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(5.d%20)%201.png)
 
 **6.	History**
 #### a.	Ganti nilai HISTSIZE dari 1000 menjadi 20
-
 $ HISTSIZE=20
 $ h
-
 #### b.	Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
 $ !-5
-
 #### c.	Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
 $ !!
-
 #### d.	Ulangi instruksi pada history bufer nomor 150
 $ !150
-
 #### e.	Ulangi instruksi dengan prefix “ls”
 $ !ls
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(6).png)
+![Contoh Gambar](https://github.com/ilmasari02/Ilma-sari-09011182328081-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/P6%20(6.1).png)
+
+# BAB III PENUTUP 
+## 3.1 Kesimpulan
 
 
